@@ -1,1 +1,10 @@
-# manager-v1
+```
+apt update
+apt install git
+apt install unzip
+apt install python3
+git clone https://github.com/eshanabbasmir-sudo/manager-v1.git
+cd manager-v1
+unzip prime-terminal-fixed.zip
+bash panel.sh
+```
